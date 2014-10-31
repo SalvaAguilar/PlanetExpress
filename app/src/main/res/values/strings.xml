@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PlanetExpress</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_reload">Reload</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_section_information">Information</string>
+    <string name="title_section_products">Products</string>
+    <string name="text_row_airplanes">Airplanes</string>
+    <string name="text_dialog_processing">Processing...</string>
+    <string name="subtext_dialog_wait">Please wait.</string>
+
+</resources>
